@@ -1,8 +1,8 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Отчёт по лабораторной работе №3"
+subtitle: "Язык разметки Markdown"
+author: "Ермишина Мария Кирилловна"
 
 ## Generic otions
 lang: ru-RU
